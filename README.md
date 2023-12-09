@@ -24,11 +24,13 @@ paso 6: en este link se generan las multas
 
 // Rubrica de calificación
 punto 1: diagrama de proceso
+
 link del diagrama del proceso 👉file:///C:/Users/Leider%20Ceron/AppData/Local/Microsoft/Windows/INetCache/IE/GA4P8IA5/Blank%20diagram[1].pdf
 
 
 
 punto 2: mensionando sobre nuestra opinion sobre el punto 1
+
 para aquellos que no estan familiarizados con la programacion pueden tener conflictos con el diagrama UML debido a varias razones como pueden ser. 
 1. Simbolos y notaciones: especificas dado que los simbolos y notaciones en uml no tienen una interfaz intuitiva para el usuario primerizo debido a que cuanta con diferentes tipos de flechas cajas y lineas y relaciones especificas en la programacion
    
