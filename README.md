@@ -1,13 +1,17 @@
 # Parcial-laboratorio
 Parcial final de laboratorio- jordarn
 
-paso 1: se agregan los libros a la biblioteca mediante la url así 
-http://localhost:4567/guardarlibros/:nombre/:tipo/:editorial/:año/:id
+paso 1: en este link se muestras los lectores 👉 http://localhost:8081/libros
 
-paso 2: se muestra el contenido de la lista(libro agragados a la biblioteca) así
-http://localhost:4567/listarlibros
+paso 2: en este link se muestra las copias (todas sus caracteristicas) 👉 http://localhost:8081/copias
 
-paso 3:
+paso 3: en este link se muestra en los libros 
+
+paso 4: en este link se muestra los prestamos 
+
+paso 5: en este link para los nuevos prestamos 
+
+paso 6: en este link se generan las multas 
 
 
 
@@ -19,7 +23,12 @@ paso 3:
 
 
 // Rubrica de calificación
-punto 2: Desarrollo
+punto 1: diagrama de proceso
+link del diagrama del proceso 👉file:///C:/Users/Leider%20Ceron/AppData/Local/Microsoft/Windows/INetCache/IE/GA4P8IA5/Blank%20diagram[1].pdf
+
+
+
+punto 2: mensionando sobre nuestra opinion sobre el punto 1
 para aquellos que no estan familiarizados con la programacion pueden tener conflictos con el diagrama UML debido a varias razones como pueden ser. 
 1. Simbolos y notaciones: especificas dado que los simbolos y notaciones en uml no tienen una interfaz intuitiva para el usuario primerizo debido a que cuanta con diferentes tipos de flechas cajas y lineas y relaciones especificas en la programacion
    
